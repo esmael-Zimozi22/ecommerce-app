@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "sourceMap": true,
+    "outDir": "lib",
+    "strict": true,
+    "baseUrl": ".",
+    "paths": {
+      "firebase-functions/*": ["node_modules/firebase-functions/lib/*"],
+      "*": ["node_modules/*", "src/*"]
+    },
+    "skipLibCheck": true // Add this to skip type checking in node_modules
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "lib"]
+}

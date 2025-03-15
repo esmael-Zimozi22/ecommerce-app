@@ -1,0 +1,54 @@
+.order-history {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.order-list {
+  list-style: none;
+  padding: 0;
+}
+
+.order-item {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  background-color: #f9f9f9;
+}
+
+.order-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.order-status {
+  font-weight: bold;
+  color: #4caf50; /* Green for delivered, red for pending, etc. */
+}
+
+.order-total {
+  font-size: 1.1em;
+  color: #333;
+}
+
+.order-date {
+  color: #666;
+}
+
+.view-details-link {
+  display: inline-block;
+  margin-top: 10px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.view-details-link:hover {
+  text-decoration: underline;
+}
+
+.no-orders {
+  text-align: center;
+  color: #666;
+}

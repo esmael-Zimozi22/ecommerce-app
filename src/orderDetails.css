@@ -1,0 +1,59 @@
+.order-details {
+  padding: 20px;
+}
+
+.order-item {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.order-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.order-status {
+  font-weight: bold;
+  color: #36d7b7;
+}
+
+.order-total,
+.order-date {
+  margin: 10px 0;
+}
+
+.shipping-info {
+  margin: 20px 0;
+}
+
+.shipping-info h3 {
+  margin-bottom: 10px;
+}
+
+.item-list {
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.item-name {
+  flex: 2;
+}
+
+.item-quantity {
+  flex: 1;
+  text-align: center;
+}
+
+.item-price {
+  flex: 1;
+  text-align: right;
+}
