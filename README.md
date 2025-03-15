@@ -34,6 +34,7 @@ ShopSphere is a full-stack e-commerce platform built with React, Firebase, and S
 ## Demo
 - **Video**: [Demo Video](https://fcibuedu-my.sharepoint.com/:f:/g/personal/esmaiel195025_fci_bu_edu_eg/EjN2xHDiyXFNlh-y3l59t88Bvw_KRMfoNNl8V6LUZjSrgQ?e=oEcbib)
 - **Test Account**: `testproducts464@gmail.com` (or any Google email)
+- **Documentation**: [PDF Link](https://fcibuedu-my.sharepoint.com/:b:/g/personal/esmaiel195025_fci_bu_edu_eg/EclozUyBnlxIjvbwUXQkaLoBlklt1zlIIH2JXxaWWd4sMg?e=Xz06O4)
 
 ## Challenges & Solutions
 - **Login**: Fixed redirect issues with Firebase Auth.
